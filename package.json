@@ -48,5 +48,12 @@
     "typescript": "*",
     "uuid": "3.4.0",
     "ws": "7.2.1"
-  }
+  },
+  "name": "spacexQL",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.ts",
+  "repository": "https://github.com/dthorn89/spacexQL",
+  "author": "dthorn89 <116689334+dthorn89@users.noreply.github.com>",
+  "license": "MIT"
 }
