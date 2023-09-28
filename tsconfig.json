@@ -9,8 +9,13 @@
         "jsx": "react",
         "experimentalDecorators": true,
         "esModuleInterop": true,
-        "skipLibCheck": true
+        "skipLibCheck": true,
+        "preserveSymlinks": true
     },
+    "include": [],
+    "exclude": [
+        "node_modules"
+    ],
     "files": [],
     "references": [
         {
@@ -22,5 +27,41 @@
         {
             "path": "./packages/spacex-cli"
         },
+        {
+            "path": "./packages/monaco-editor"
+        },
+        {
+            "path": "./databases/heatwave"
+        },
+        {
+            "path": "./databases/mysql"
+        },
+        {
+            "path": "./providers/elastic"
+        },
+        {
+            "path": "./providers/explorium"
+        },
+        {
+            "path": "./providers/gpt-plugins"
+        },
+        {
+            "path": "./providers/isoftpull"
+        },
+        {
+            "path": "./providers/middesk"
+        },
+        {
+            "path": "./providers/ocrolus"
+        },
+        {
+            "path": "./providers/plaid"
+        },
+        {
+            "path": "./providers/rosetta"
+        },
+        {
+            "path": "./providers/tipalti"
+        }
     ]
 }

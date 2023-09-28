@@ -19,6 +19,8 @@
   "dependencies": {
     "@graphql-tools/optimize": "1.0.1",
     "@graphql-tools/relay-operation-optimizer": "^6.3.0",
+    "@openland/spacex": "workspace:^",
+    "@openland/spacex-web": "workspace:^",
     "@types/commander": "2.12.2",
     "@types/glob": "7.1.3",
     "@types/graphql": "14.5.0",
@@ -32,12 +34,16 @@
     "@types/ws": "7.2.1",
     "apollo": "2.33.4",
     "commander": "7.2.0",
+    "dev": "^0.1.3",
     "glob": "7.1.7",
     "graphql": "15.5.0",
+    "inotify": "npm:1.4.6",
     "isomorphic-ws": "4.0.1",
     "jest": "25.5.0",
     "lerna": "4.0.0",
+    "monaco-editor": "workspace:^",
     "node-fetch": "2.6.1",
+    "node-gyp": "^9.4.0",
     "ora": "5.4.0",
     "prompts": "2.4.1",
     "react": "16.12.0",
@@ -55,5 +61,11 @@
   "main": "index.ts",
   "repository": "https://github.com/dthorn89/spacexQL",
   "author": "dthorn89 <116689334+dthorn89@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "yarn@3.6.3",
+  "devDependencies": {
+    "@openland/spacex-cli": "workspace:^",
+    "get-graphql-schema": "^2.1.2",
+    "prettier": "^3.0.3"
+  }
 }

@@ -4,3 +4,12 @@ packages/spacex-cli/lib
 packages/spacex-web/lib
 packages/spacex/lib
 *.tsbuildinfo
+
+# yarn
+yarn.lock
+.yarn/cache
+.yarn
+
+
+# gitignore
+.gitignore
