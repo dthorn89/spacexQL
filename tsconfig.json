@@ -19,6 +19,33 @@
     "files": [],
     "references": [
         {
+            "path": "./communications/email"
+        },
+        {
+            "path": "./communications/internal"
+        },
+        {
+            "path": "./communications/mail-scanner"
+        },
+        {
+            "path": "./communications/marketing"
+        },
+        {
+            "path": "./communications/transactional"
+        },
+        {
+            "path": "./communications/signal"
+        },
+        {
+            "path": "./dashboard"
+        },
+        {
+            "path": "./dashboard/components"
+        },
+        {
+            "path": "./dashboard/packages"
+        },
+        {
             "path": "./packages/spacex"
         },
         {
@@ -28,13 +55,16 @@
             "path": "./packages/spacex-cli"
         },
         {
-            "path": "./packages/monaco-editor"
-        },
-        {
             "path": "./databases/heatwave"
         },
         {
             "path": "./databases/mysql"
+        },
+        {
+            "path": "./providers/cloudflare"
+        },
+        {
+            "path": "./providers/diffbot"
         },
         {
             "path": "./providers/elastic"
