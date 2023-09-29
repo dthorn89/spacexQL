@@ -9,7 +9,9 @@ packages/spacex/lib
 yarn.lock
 .yarn/cache
 .yarn
-
+/workspaces/spacexQL/yarn.lock
 
 # gitignore
 .gitignore
+yarn.lock
+databases/mysql/notes/commands.md

@@ -55,7 +55,7 @@
     "uuid": "3.4.0",
     "ws": "7.2.1"
   },
-  "name": "spacexQL",
+  "name": "spacexql",
   "version": "1.0.0",
   "description": "description",
   "main": "index.ts",

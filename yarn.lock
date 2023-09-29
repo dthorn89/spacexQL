@@ -11694,9 +11694,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"spacexQL@workspace:.":
+"spacexql@workspace:.":
   version: 0.0.0-use.local
-  resolution: "spacexQL@workspace:."
+  resolution: "spacexql@workspace:."
   dependencies:
     "@graphql-tools/optimize": 1.0.1
     "@graphql-tools/relay-operation-optimizer": ^6.3.0
