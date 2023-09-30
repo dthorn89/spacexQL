@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "ms-azuretools.vscode-docker",
-        "vscjava.vscode-java-pack"
+        "ms-azuretools.vscode-docker"
     ]
 }
