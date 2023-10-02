@@ -6,12 +6,17 @@ packages/spacex/lib
 *.tsbuildinfo
 
 # yarn
-yarn.lock
-.yarn/cache
-.yarn
+backend/yarn.lock
+backend/.yarn/cache
+backend/.yarn
 /workspaces/spacexQL/yarn.lock
+.yarn
 
 # gitignore
 .gitignore
 yarn.lock
 databases/mysql/notes/commands.md
+node_modules
+backend/ai/training-data/not-live/notes/notes.md
+.yarn/releases/yarn-3.6.3.cjs
+/notes

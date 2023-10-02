@@ -2,7 +2,16 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "packages/*"
+      "packages/*",
+      "api/*",
+      "kafka/*",
+      "monaco-editor/*",
+      "k8s/*",
+      "databases/*",
+      "ai/*",
+      "api/*",
+      "dashboard/*",
+      "communications/*"
     ]
   },
   "publishConfig": {

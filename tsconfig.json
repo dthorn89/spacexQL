@@ -93,5 +93,8 @@
         {
             "path": "./providers/tipalti"
         }
+        {
+            "path": "./cosmos/react-cosmos"
+        },
     ]
 }
