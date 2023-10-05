@@ -6,9 +6,9 @@ packages/spacex/lib
 *.tsbuildinfo
 
 # yarn
-backend/yarn.lock
-backend/.yarn/cache
-backend/.yarn
+server/yarn.lock
+server/.yarn/cache
+server/.yarn
 /workspaces/spacexQL/yarn.lock
 .yarn
 

@@ -5,7 +5,7 @@
       "packages/*",
       "api/*",
       "kafka/*",
-      "monaco-editor/*",
+      "react-monaco-editor/*",
       "k8s/*",
       "databases/*",
       "ai/*",

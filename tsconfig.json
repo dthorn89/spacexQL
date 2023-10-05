@@ -19,33 +19,6 @@
     "files": [],
     "references": [
         {
-            "path": "./communications/email"
-        },
-        {
-            "path": "./communications/internal"
-        },
-        {
-            "path": "./communications/mail-scanner"
-        },
-        {
-            "path": "./communications/marketing"
-        },
-        {
-            "path": "./communications/transactional"
-        },
-        {
-            "path": "./communications/signal"
-        },
-        {
-            "path": "./dashboard"
-        },
-        {
-            "path": "./dashboard/components"
-        },
-        {
-            "path": "./dashboard/packages"
-        },
-        {
             "path": "./packages/spacex"
         },
         {
@@ -53,48 +26,6 @@
         },
         {
             "path": "./packages/spacex-cli"
-        },
-        {
-            "path": "./databases/heatwave"
-        },
-        {
-            "path": "./databases/mysql"
-        },
-        {
-            "path": "./providers/cloudflare"
-        },
-        {
-            "path": "./providers/diffbot"
-        },
-        {
-            "path": "./providers/elastic"
-        },
-        {
-            "path": "./providers/explorium"
-        },
-        {
-            "path": "./providers/gpt-plugins"
-        },
-        {
-            "path": "./providers/isoftpull"
-        },
-        {
-            "path": "./providers/middesk"
-        },
-        {
-            "path": "./providers/ocrolus"
-        },
-        {
-            "path": "./providers/plaid"
-        },
-        {
-            "path": "./providers/rosetta"
-        },
-        {
-            "path": "./providers/tipalti"
-        }
-        {
-            "path": "./cosmos/react-cosmos"
         },
     ]
 }
