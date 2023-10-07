@@ -1,6 +1,10 @@
 {
     "recommendations": [
         "ms-azuretools.vscode-docker",
-        "philnash.ngrok-for-vscode"
+        "philnash.ngrok-for-vscode",
+        "ms-azuretools.vscode-azureterraform",
+        "hashicorp.terraform",
+        "postman.postman-for-vscode",
+        "figma.figma-vscode-extension"
     ]
 }

@@ -20,3 +20,8 @@ node_modules
 backend/ai/training-data/not-live/notes/notes.md
 .yarn/releases/yarn-3.6.3.cjs
 /notes
+
+
+# Terraform
+terraform-local-file/terraform.tfstate
+terraform-local-file/terraform.tfstate.backup
